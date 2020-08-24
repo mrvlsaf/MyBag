@@ -1,0 +1,9 @@
+# Education Template
+- layout: left
+  name: J.C. Bose University of Science and Technology, YMCA, Faridabad
+  dates: Date Range (eg. 2018 - 2022)
+  qualification: B.Tech
+  quote: >
+    Currently in 3rd Year
+  description: | # this will include new lines to allow paragraphs
+    Pursuing Computer Science.

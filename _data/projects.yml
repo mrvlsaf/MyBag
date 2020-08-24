@@ -1,0 +1,9 @@
+# Project template
+- layout: top-middle
+  name: Delhi Policing
+  link: https://github.com/RitikGusain/RK57_VIGILANT/tree/master/RUDRA/RUDRA/RUDRA/rudra_demo/yesplz_change/yesplz
+  github: https://github.com/mrvlsaf
+  quote: >
+    This project was selected for the <mark>Smart India Hackathon 2020</mark>.
+  description: | # this will include new lines to allow paragraphs
+    Java, XML ad Firebase is used in this project.
